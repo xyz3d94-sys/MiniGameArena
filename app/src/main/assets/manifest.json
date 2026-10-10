@@ -1,5 +1,4 @@
 {
-  "id": "/?source=pwa",
   "name": "Mini Games Arena",
   "short_name": "MGArena",
   "description": "Smart Mobile Arcade with offline AI bot games and live multiplayer",
@@ -18,15 +17,6 @@
       "src": "assets/images/mini_games_arena_cartoon.jpg",
       "sizes": "512x512",
       "type": "image/jpeg"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "assets/images/mini_games_arena_cartoon.jpg",
-      "sizes": "512x512",
-      "type": "image/jpeg",
-      "form_factor": "narrow",
-      "label": "Mini Games Arena"
     }
   ]
 }
